@@ -4,6 +4,6 @@ public class GitHubTest{
     why();
   }
   public static void why(){
-    System.out.println("why the hell didn't it work?")
+    System.out.println("why didn't it work?")
   }
 }
