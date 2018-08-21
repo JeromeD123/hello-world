@@ -5,5 +5,6 @@ public class GitHubTest{
   }
   public static void why(){
     System.out.println("why didn't it work?")
+    System.out.println("push test")
   }
 }
